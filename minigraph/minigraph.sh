@@ -1,0 +1,2 @@
+#/data2/projects/yshao/software/minigraph/minigraph -cxggs -t16 ./genomes/Tra_sort.fa ./genomes/Tba_sort.fa ./genomes/Tbi_sort.fa > tra.gfa 
+/data2/projects/yshao/software/gfatools/gfatools gfa2fa -s tra.gfa > tra.gfa.fa
