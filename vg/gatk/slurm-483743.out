@@ -1,0 +1,97 @@
+Loading bwa/0.7.17
+  Loading requirement: clusterbasics/1
+Using GATK jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar CreateSequenceDictionary -R /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa
+Using GATK jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar CreateSequenceDictionary -R /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa
+Using GATK jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar CreateSequenceDictionary -R /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa
+Using GATK jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar CreateSequenceDictionary -R /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa
+Using GATK jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -jar /public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar CreateSequenceDictionary -R /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa
+INFO	2025-05-17 16:20:10	CreateSequenceDictionary	Output dictionary will be written in /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict
+INFO	2025-05-17 16:20:10	CreateSequenceDictionary	Output dictionary will be written in /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict
+16:20:10.882 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+INFO	2025-05-17 16:20:10	CreateSequenceDictionary	Output dictionary will be written in /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict
+INFO	2025-05-17 16:20:10	CreateSequenceDictionary	Output dictionary will be written in /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict
+INFO	2025-05-17 16:20:10	CreateSequenceDictionary	Output dictionary will be written in /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict
+[Sat May 17 16:20:10 CST 2025] CreateSequenceDictionary --REFERENCE /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa --TRUNCATE_NAMES_AT_WHITESPACE true --NUM_SEQUENCES 2147483647 --VERBOSITY INFO --QUIET false --VALIDATION_STRINGENCY STRICT --COMPRESSION_LEVEL 2 --MAX_RECORDS_IN_RAM 500000 --CREATE_INDEX false --CREATE_MD5_FILE false --GA4GH_CLIENT_SECRETS client_secrets.json --help false --version false --showHidden false --USE_JDK_DEFLATER false --USE_JDK_INFLATER false
+16:20:10.903 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+16:20:10.910 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+16:20:10.915 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+16:20:10.919 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/public3/group_crf/home/wanglinlong8405/genome/lty_genome/resequencing/01.SNP_calling/03.gatk/gatk-4.2.1.0/gatk-package-4.2.1.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+[Sat May 17 16:20:10 CST 2025] CreateSequenceDictionary --REFERENCE /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa --TRUNCATE_NAMES_AT_WHITESPACE true --NUM_SEQUENCES 2147483647 --VERBOSITY INFO --QUIET false --VALIDATION_STRINGENCY STRICT --COMPRESSION_LEVEL 2 --MAX_RECORDS_IN_RAM 500000 --CREATE_INDEX false --CREATE_MD5_FILE false --GA4GH_CLIENT_SECRETS client_secrets.json --help false --version false --showHidden false --USE_JDK_DEFLATER false --USE_JDK_INFLATER false
+[Sat May 17 16:20:10 CST 2025] CreateSequenceDictionary --REFERENCE /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa --TRUNCATE_NAMES_AT_WHITESPACE true --NUM_SEQUENCES 2147483647 --VERBOSITY INFO --QUIET false --VALIDATION_STRINGENCY STRICT --COMPRESSION_LEVEL 2 --MAX_RECORDS_IN_RAM 500000 --CREATE_INDEX false --CREATE_MD5_FILE false --GA4GH_CLIENT_SECRETS client_secrets.json --help false --version false --showHidden false --USE_JDK_DEFLATER false --USE_JDK_INFLATER false
+[Sat May 17 16:20:10 CST 2025] CreateSequenceDictionary --REFERENCE /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa --TRUNCATE_NAMES_AT_WHITESPACE true --NUM_SEQUENCES 2147483647 --VERBOSITY INFO --QUIET false --VALIDATION_STRINGENCY STRICT --COMPRESSION_LEVEL 2 --MAX_RECORDS_IN_RAM 500000 --CREATE_INDEX false --CREATE_MD5_FILE false --GA4GH_CLIENT_SECRETS client_secrets.json --help false --version false --showHidden false --USE_JDK_DEFLATER false --USE_JDK_INFLATER false
+[Sat May 17 16:20:10 CST 2025] CreateSequenceDictionary --REFERENCE /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.fa --TRUNCATE_NAMES_AT_WHITESPACE true --NUM_SEQUENCES 2147483647 --VERBOSITY INFO --QUIET false --VALIDATION_STRINGENCY STRICT --COMPRESSION_LEVEL 2 --MAX_RECORDS_IN_RAM 500000 --CREATE_INDEX false --CREATE_MD5_FILE false --GA4GH_CLIENT_SECRETS client_secrets.json --help false --version false --showHidden false --USE_JDK_DEFLATER false --USE_JDK_INFLATER false
+May 17, 2025 4:20:31 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+May 17, 2025 4:20:31 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+May 17, 2025 4:20:31 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+[Sat May 17 16:20:31 CST 2025] Executing as g21shaoy23@node11 on Linux 5.15.0-84-generic amd64; OpenJDK 64-Bit Server VM 18.0.1.1+2-6; Deflater: Intel; Inflater: Intel; Provider GCS is available; Picard version: Version:4.2.1.0
+[Sat May 17 16:20:31 CST 2025] Executing as g21shaoy23@node11 on Linux 5.15.0-84-generic amd64; OpenJDK 64-Bit Server VM 18.0.1.1+2-6; Deflater: Intel; Inflater: Intel; Provider GCS is available; Picard version: Version:4.2.1.0
+May 17, 2025 4:20:31 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+[Sat May 17 16:20:31 CST 2025] Executing as g21shaoy23@node11 on Linux 5.15.0-84-generic amd64; OpenJDK 64-Bit Server VM 18.0.1.1+2-6; Deflater: Intel; Inflater: Intel; Provider GCS is available; Picard version: Version:4.2.1.0
+[Sat May 17 16:20:31 CST 2025] picard.sam.CreateSequenceDictionary done. Elapsed time: 0.34 minutes.
+Runtime.totalMemory()=285212672
+To get help, see http://broadinstitute.github.io/picard/index.html#GettingHelp
+[Sat May 17 16:20:31 CST 2025] picard.sam.CreateSequenceDictionary done. Elapsed time: 0.34 minutes.
+Runtime.totalMemory()=285212672
+To get help, see http://broadinstitute.github.io/picard/index.html#GettingHelp
+picard.PicardException: /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict already exists.  Delete this file and try again, or specify a different output file.
+picard.PicardException: /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict already exists.  Delete this file and try again, or specify a different output file.
+	at picard.sam.CreateSequenceDictionary.doWork(CreateSequenceDictionary.java:220)
+	at picard.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:308)
+	at org.broadinstitute.hellbender.cmdline.PicardCommandLineProgramExecutor.instanceMain(PicardCommandLineProgramExecutor.java:37)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+	at picard.sam.CreateSequenceDictionary.doWork(CreateSequenceDictionary.java:220)
+	at picard.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:308)
+	at org.broadinstitute.hellbender.cmdline.PicardCommandLineProgramExecutor.instanceMain(PicardCommandLineProgramExecutor.java:37)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+[Sat May 17 16:20:31 CST 2025] picard.sam.CreateSequenceDictionary done. Elapsed time: 0.34 minutes.
+Runtime.totalMemory()=285212672
+May 17, 2025 4:20:31 PM shaded.cloud_nio.com.google.auth.oauth2.ComputeEngineCredentials runningOnComputeEngine
+INFO: Failed to detect whether we are running on Google Compute Engine.
+To get help, see http://broadinstitute.github.io/picard/index.html#GettingHelp
+picard.PicardException: /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict already exists.  Delete this file and try again, or specify a different output file.
+	at picard.sam.CreateSequenceDictionary.doWork(CreateSequenceDictionary.java:220)
+	at picard.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:308)
+	at org.broadinstitute.hellbender.cmdline.PicardCommandLineProgramExecutor.instanceMain(PicardCommandLineProgramExecutor.java:37)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+[Sat May 17 16:20:31 CST 2025] Executing as g21shaoy23@node11 on Linux 5.15.0-84-generic amd64; OpenJDK 64-Bit Server VM 18.0.1.1+2-6; Deflater: Intel; Inflater: Intel; Provider GCS is available; Picard version: Version:4.2.1.0
+[Sat May 17 16:20:31 CST 2025] Executing as g21shaoy23@node11 on Linux 5.15.0-84-generic amd64; OpenJDK 64-Bit Server VM 18.0.1.1+2-6; Deflater: Intel; Inflater: Intel; Provider GCS is available; Picard version: Version:4.2.1.0
+[Sat May 17 16:20:31 CST 2025] picard.sam.CreateSequenceDictionary done. Elapsed time: 0.34 minutes.
+[Sat May 17 16:20:31 CST 2025] picard.sam.CreateSequenceDictionary done. Elapsed time: 0.34 minutes.
+Runtime.totalMemory()=285212672
+Runtime.totalMemory()=285212672
+To get help, see http://broadinstitute.github.io/picard/index.html#GettingHelp
+To get help, see http://broadinstitute.github.io/picard/index.html#GettingHelp
+picard.PicardException: /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict already exists.  Delete this file and try again, or specify a different output file.
+picard.PicardException: /public3/group_crf/home/g21shaoy23/goby5/vg/vcf/genome/Tra_sort.dict already exists.  Delete this file and try again, or specify a different output file.
+	at picard.sam.CreateSequenceDictionary.doWork(CreateSequenceDictionary.java:220)
+	at picard.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:308)
+	at org.broadinstitute.hellbender.cmdline.PicardCommandLineProgramExecutor.instanceMain(PicardCommandLineProgramExecutor.java:37)
+	at picard.sam.CreateSequenceDictionary.doWork(CreateSequenceDictionary.java:220)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at picard.cmdline.CommandLineProgram.instanceMain(CommandLineProgram.java:308)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
+	at org.broadinstitute.hellbender.cmdline.PicardCommandLineProgramExecutor.instanceMain(PicardCommandLineProgramExecutor.java:37)
+	at org.broadinstitute.hellbender.Main.runCommandLineProgram(Main.java:160)
+	at org.broadinstitute.hellbender.Main.mainEntry(Main.java:203)
+	at org.broadinstitute.hellbender.Main.main(Main.java:289)
