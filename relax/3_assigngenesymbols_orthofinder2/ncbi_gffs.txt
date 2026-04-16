@@ -1,0 +1,15 @@
+Rhinogobiusformosanus	/data/projects/zma/R.formosanus_data/10_funannotate/funannotate/train/hic_train03_alltrinity/trained_test01/predict_results/change.gff3
+Gobiopsismacrostoma	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Gma_clean.gff3
+Glossogobiusgiuris	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Ggi_clean.gff3
+Tridentigerbifasciatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tbi_clean.gff3
+Tridentigerbarbatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tba_clean.gff3
+Tridentigerradiatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tra_clean.gff3
+Boleophthalmuspectinirostris	/data2/projects/yshao/relax/1_sp/Boleophthalmus_pectinirostris/Boleophthalmus_pectinirostris.gff
+Neogobiusmelanostomus	/data2/projects/yshao/relax/1_sp/Neogobius_melanostomus/galba.gff3
+Periophthalmusmodestus	/data2/projects/yshao/relax/1_sp/Periophthalmus_modestus/galba.gff3
+Rhinogobiussimilis	/data2/projects/yshao/relax/1_sp/Rhinogobius_similis/galba.gff3
+Siphamiatubifer	/data2/projects/yshao/relax/1_sp/Siphamia_tubifer/galba.gff3
+Taenioidessp	/data2/projects/yshao/relax/1_sp/Taenioides_sp/galba.gff3
+Odontamblyopusrebecca	/data2/projects/yshao/relax/1_sp/Odontamblyopus_rebecca/galba.gff3
+Oxyeleotrismarmorata	/data2/projects/yshao/relax/1_sp/Oxyeleotris_marmorata/braker.gff3
+Periophthalmusmagnuspinnatus	/data2/projects/yshao/relax/1_sp/Periophthalmus_magnuspinnatus/galba.gff3

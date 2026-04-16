@@ -1,0 +1,5 @@
+taxon	count
+root	10
+Gobiopsis_macrostoma	1
+Tridentiger_barbatus	1
+Tridentiger_radiatus	1

@@ -1,0 +1,2 @@
+#cat genespace.orthogroups.txt | awk -F'\t' '{split($16, a, "|"); print $1"\t"a[3]}'  > groupid2transid_tba.txt
+cat genespace.orthogroups.txt | awk -F'\t' '{split($18, a, "|"); print $1"\t"a[3]}'  > groupid2transid_tra.txt

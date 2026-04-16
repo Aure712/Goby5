@@ -1,0 +1,25 @@
+(Amoya_brevirostris:0.02825547309229486936,((Exyrias_puntang:0.02965192932602058948,(((((((((Tridentiger_bifasciatus:0.01764846388354159371,(Tridentiger_radiatus:0.01075360022860658883,Tridentiger_barbatus:0.01208227029808759713):0.00591500842050725860):0.02794310418172431254,(Rhinogobius_formosanus:0.02320162574584168705,Rhinogobius_similis:0.01994011265609841113):0.02008526935237573904):0.00384919069529187632,Chaeturichthys_stigmatias:0.04093426469516724814):0.01051021534506912415,(Eugnathogobius_siamensis:0.04006320218389222698,Redigobius_balteatus:0.04345851991796234604):0.03940580634452779674):0.01038023787096316840,(((Odontamblyopus_rebecca:0.02959165218059794586,(Taenioides_cirratus:0.01515678958157134007,Trypauchen_vagina:0.02131848799393741903):0.00809878319694297757):0.02261682621996839032,Periophthalmus_magnuspinnatus:0.05061347145502638478):0.01477367441234556621,(Oligolepis_acutipinnis:0.07984797013351019324,(Stiphodon_pelewensis:0.01924492838632458139,Sicyopterus_lagocephalus:0.02058381774818289142):0.04908228398873678427):0.03338766353085949323):0.01225162156408515259):0.06978632273618744220,Gobiodon_okinawae:0.07681714597396473165):0.00465244964624509597,Neogobius_melanostomus:0.07337402328599453016):0.00503221630646176303,(Glossogobius_giuris:0.05267229017603009683,Bathygobius_meggitti:0.07247169961774162228):0.01325331401124869163):0.02744893486952484571,Cryptocentrus_pavoninoides:0.04125783652923920020):0.01579333297944936557):0.00382990842783972755,Gobiopsis_macrostoma:0.03965838998033596047):0.00449583072153971700,Acentrogobius_pflaumii:0.04835610201006855513);
+Acentrogobius_pflaumii /public4/group_crf/home/g21shaoy23/cactus/0_species/Acentrogobius_pflaumii/Apfla_sort.fa.masked
+Amoya_brevirostris /public4/group_crf/home/g21shaoy23/cactus/0_species/Amoya_brevirostris/Abrev_sort.fa.masked
+Bathygobius_meggitti /public4/group_crf/home/g21shaoy23/cactus/0_species/Bathygobius_meggitti/Bmegg_sort.fa.masked
+Chaeturichthys_stigmatias /public4/group_crf/home/g21shaoy23/cactus/0_species/Chaeturichthys_stigmatias/Cstig_sort.fa.masked
+Cryptocentrus_pavoninoides /public4/group_crf/home/g21shaoy23/cactus/0_species/Cryptocentrus_pavoninoides/Cpavo_sort.fa.masked
+Eugnathogobius_siamensis /public4/group_crf/home/g21shaoy23/cactus/0_species/Eugnathogobius_siamensis/Esiam_sort.fa.masked
+Exyrias_puntang /public4/group_crf/home/g21shaoy23/cactus/0_species/Exyrias_puntang/Epunt_sort.fa.masked
+Glossogobius_giuris /public4/group_crf/home/g21shaoy23/cactus/0_species/Glossogobius_giuris/Ggi_sort.fa
+Gobiodon_okinawae /public4/group_crf/home/g21shaoy23/cactus/0_species/Gobiodon_okinawae/Gokin_sort.fa.masked
+Gobiopsis_macrostoma /public4/group_crf/home/g21shaoy23/cactus/0_species/Gobiopsis_macrostoma/Gma_sort.fa
+Neogobius_melanostomus /public4/group_crf/home/g21shaoy23/cactus/0_species/Neogobius_melanostomus/Neogobius_melanostomus3.fa
+Odontamblyopus_rebecca /public4/group_crf/home/g21shaoy23/cactus/0_species/Odontamblyopus_rebecca/Odontamblyopus_rebecca3.fa
+Oligolepis_acutipinnis /public4/group_crf/home/g21shaoy23/cactus/0_species/Oligolepis_acutipinnis/Oacut_sort.fa.masked
+Periophthalmus_magnuspinnatus /public4/group_crf/home/g21shaoy23/cactus/0_species/Periophthalmus_magnuspinnatus/Periophthalmus_magnuspinnatus3.fa
+Redigobius_balteatus /public4/group_crf/home/g21shaoy23/cactus/0_species/Redigobius_balteatus/Rbalt_sort.fa.masked
+Rhinogobius_formosanus /public4/group_crf/home/g21shaoy23/cactus/0_species/Rhinogobius_formosanus/Rhinogobius_formosanus.fa
+Rhinogobius_similis /public4/group_crf/home/g21shaoy23/cactus/0_species/Rhinogobius_similis/Rhinogobius_similis3.fa
+Sicyopterus_lagocephalus /public4/group_crf/home/g21shaoy23/cactus/0_species/Sicyopterus_lagocephalus/Slago_sort.fa.masked
+Stiphodon_pelewensis /public4/group_crf/home/g21shaoy23/cactus/0_species/Stiphodon_pelewensis/Spele_sort.fa.masked
+Taenioides_cirratus /public4/group_crf/home/g21shaoy23/cactus/0_species/Taenioides_cirratus/Tcirr_sort.fa.masked
+Tridentiger_barbatus /public4/group_crf/home/g21shaoy23/cactus/0_species/Tridentiger_barbatus/Tba_sort.fa
+Tridentiger_bifasciatus /public4/group_crf/home/g21shaoy23/cactus/0_species/Tridentiger_bifasciatus/Tbi_sort.fa
+Tridentiger_radiatus /public4/group_crf/home/g21shaoy23/cactus/0_species/Tridentiger_radiatus/Tra_sort.fa
+Trypauchen_vagina /public4/group_crf/home/g21shaoy23/cactus/0_species/Trypauchen_vagina/Tvagi_sort.fa.masked

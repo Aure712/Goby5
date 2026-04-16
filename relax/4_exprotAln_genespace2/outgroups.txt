@@ -1,0 +1,16 @@
+#name	cds
+Boleophthalmus_pectinirostris	/data2/projects/yshao/relax/1_sp/Boleophthalmus_pectinirostris/longest_isoform.cds.fa
+Glossogobius_giuris	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Ggi_longest.cds.fa
+Gobiopsis_macrostoma	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Gma_longest.cds.fa
+Neogobius_melanostomus	/data2/projects/yshao/relax/1_sp/Neogobius_melanostomus/longest_isoform.cds.fa
+Periophthalmus_modestus	/data2/projects/yshao/relax/1_sp/Periophthalmus_modestus/longest_isoform.cds.fa
+Rhinogobius_formosanus	/data2/projects/zma/Rhinogobius_spp/DNA/hyphy/ref/Rform_longest_isoform.cds.fa
+Rhinogobius_similis	/data2/projects/yshao/relax/1_sp/Rhinogobius_similis/longest_isoform.cds.fa
+Siphamia_tubifer	/data2/projects/yshao/relax/1_sp/Siphamia_tubifer/longest_isoform.cds.fa
+Taenioides_sp	/data2/projects/yshao/relax/1_sp/Taenioides_sp/longest_isoform.cds.fa
+Tridentiger_barbatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tba_longest.cds.fa
+Tridentiger_bifasciatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tbi_longest.cds.fa
+Tridentiger_radiatus	/data2/projects/yshao/Goby5RNA/annotations/longest_iso/Tra_longest.cds.fa
+Odontamblyopus_rebecca	/data2/projects/yshao/relax/1_sp/Odontamblyopus_rebecca/longest_isoform.cds.fa
+Oxyeleotris_marmorata	/data2/projects/yshao/relax/1_sp/Oxyeleotris_marmorata/longest_isoform.cds.fa
+Periophthalmus_magnuspinnatus	/data2/projects/yshao/relax/1_sp/Periophthalmus_magnuspinnatus/longest_isoform.cds.fa

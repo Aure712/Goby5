@@ -1,0 +1,14 @@
+Clade1	Gobiopsis_macrostoma,Glossogobius_giuris
+Clade2	Neogobius_melanostomus,*Clade1
+Clade3	Rhinogobius_similis,Rhinogobius_formosanus
+Clade4	Tridentiger_barbatus,Tridentiger_radiatus
+Clade5	Tridentiger_bifasciatus,*Clade4
+Clade6	*Clade3,*Clade5
+Clade7	Periophthalmus_modestus,Periophthalmus_magnuspinnatus
+Clade8	Odontamblyopus_rebecca,Boleophthalmus_pectinirostris
+Clade9	Taenioides_sp,*Clade8
+Clade10	*Clade7,*Clade9
+Clade11	*Clade6,*Clade10
+Clade12	*Clade2,*Clade11
+Clade13	Oxyeleotris_marmorata,*Clade12
+root	*Clade13,Siphamia_tubifer
